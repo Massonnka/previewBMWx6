@@ -1,3 +1,11 @@
-# Git and Github Course
+# Preview BMW X6 - Учебный проект
 
-Crash course for Git
+## Выполнил проект - Ролевич Максим
+
+### Технология:
+
+- HTML
+- SASS
+- Normalize
+- jQuery
+- FancyBox [jQuery]
